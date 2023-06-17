@@ -1,3 +1,3 @@
 # Random Number Generator 
 
-Using C++ 
+With custom range.
